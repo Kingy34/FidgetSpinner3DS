@@ -26,15 +26,15 @@ include $(DEVKITARM)/3ds_rules
 #     - icon.png
 #     - <libctru folder>/default_icon.png
 #---------------------------------------------------------------------------------
-TARGET		:=	FidgetSpinner3DS
+TARGET		:=	NotFidgetSpinner3DS
 BUILD		:=	build
 SOURCES		:=	source
 DATA		:=	data
 INCLUDES	:=	include
 
-APP_TITLE	:= FidgetSpinner3DS
-APP_DESCRIPTION	:= What am I doing with my life
-APP_AUTHOR	:= B_E_P_I_S_M_A_N
+APP_TITLE	:= NotFidgetSpinner3DS
+APP_DESCRIPTION	:= What are you doing with my life
+APP_AUTHOR	:= B_E_P_I_S_M_A_N, Kingy
 
 #---------------------------------------------------------------------------------
 # options for code generation
